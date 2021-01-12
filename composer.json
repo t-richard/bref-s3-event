@@ -1,0 +1,10 @@
+{
+    "name": "t-richard/bref-pop",
+    "type": "project",
+    "require": {
+        "symfony/notifier": "^5.2",
+        "symfony/ovh-cloud-notifier": "^5.2",
+        "bref/bref": "^1.0",
+        "symfony/slack-notifier": "^5.2"
+    }
+}

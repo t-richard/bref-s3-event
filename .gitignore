@@ -1,0 +1,4 @@
+.serverless
+vendor
+.env
+.idea
